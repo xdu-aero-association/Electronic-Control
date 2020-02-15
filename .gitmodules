@@ -1,0 +1,6 @@
+[submodule "Robotic-arm-drive-for-ROS"]
+	path = Robotic-arm-drive-for-ROS
+	url = https://github.com/uav-operation-system/Robotic-arm-drive-for-ROS
+[submodule "Control-program-of-the-manipulator-of-the-six-rotor-armed-UAV"]
+	path = Control-program-of-the-manipulator-of-the-six-rotor-armed-UAV
+	url = https://github.com/uav-operation-system/Control-program-of-the-manipulator-of-the-six-rotor-armed-UAV
