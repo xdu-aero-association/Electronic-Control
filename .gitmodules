@@ -4,9 +4,9 @@
 [submodule "Control-program-of-the-manipulator-of-the-six-rotor-armed-UAV"]
 	path = Control-program-of-the-manipulator-of-the-six-rotor-armed-UAV
 	url = https://github.com/uav-operation-system/Control-program-of-the-manipulator-of-the-six-rotor-armed-UAV
-[submodule "Step-motor-test-program"]
-	path = Step-motor-test-program
-	url = https://github.com/uav-operation-system/Step-motor-test-program
+[submodule "BH-MSD4805-"]
+	path = BH-MSD4805-
+	url = https://github.com/uav-operation-system/BH-MSD4805-
 [submodule "HMC830-Sample"]
 	path = HMC830-Sample
 	url = https://github.com/uav-operation-system/HMC830-Sample
